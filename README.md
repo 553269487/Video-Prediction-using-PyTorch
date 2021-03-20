@@ -16,6 +16,10 @@ pytorch-lightning=0.7.1
 matplotlib=3.1.3
 tensorboard=1.15.0a20190708
 ```
+## Other git
+This one is much simpler and easier to read than https://github.com/jhhuang96/ConvLSTM-PyTorch, which is also an awesome repo. 
+
+Great pytorch lightning.
 
 ## Getting started
 1. Install the above libraries
